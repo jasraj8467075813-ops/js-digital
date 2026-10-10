@@ -733,7 +733,7 @@ export default function Home() {
           </div>
 
           <span className="jd-copyright">
-            © {new Date().getFullYear()} JS DIGITAL
+          © 2026 JS DIGITAL
           </span>
         </div>
       </footer>
